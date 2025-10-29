@@ -1,2 +1,3 @@
 yes
 her er endringer fra annen mappe
+jeg vil tilbake til master, så jeg legger det til
